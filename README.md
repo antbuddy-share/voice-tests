@@ -1,6 +1,6 @@
 # Create 100 AB users
 ```
-export ABTOKEN="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI1ZGExY2Q1NjJiYWI2ZjFlMDBiZGI1MDkiLCJleHAiOjE2MDM0NDgwOTg5MDJ9.Wn2nqYsW5V7DSB6FezBaqNfv-DhooBuAPUJF2eScTdI"
+export ABTOKEN="xxx"
 for i in {1..99}
 do
   id=`printf "%02d" $i`
