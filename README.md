@@ -1,3 +1,9 @@
+# Flow
+
+The script will use `sipcmd` as a SIP client. It will then ask the client to do a call as requested.
+Examples are some below
+
+
 # Create 100 AB users
 ```
 export ABTOKEN="xxx"
